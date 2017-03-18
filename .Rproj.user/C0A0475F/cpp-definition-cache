@@ -1,0 +1,89 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 6,
+                "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+                "kind" : 6,
+                "line" : 10,
+                "name" : "tr(SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@tr"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+                "kind" : 6,
+                "line" : 60,
+                "name" : "getuit(SEXP, SEXP, SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@getuit"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+                "kind" : 6,
+                "line" : 119,
+                "name" : "cpos(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cpos"
+            },
+            {
+                "column" : 7,
+                "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+                "kind" : 6,
+                "line" : 154,
+                "name" : "getListElement(SEXP, char *)",
+                "parent_name" : "",
+                "usr" : "c:@F@getListElement"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+                "kind" : 6,
+                "line" : 169,
+                "name" : "change(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@change"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+                "kind" : 6,
+                "line" : 209,
+                "name" : "myNArem(SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@myNArem"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+                "kind" : 6,
+                "line" : 269,
+                "name" : "cdist(SEXP, SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cdist"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+                "kind" : 6,
+                "line" : 442,
+                "name" : "cpoint(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@cpoint"
+            },
+            {
+                "column" : 6,
+                "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+                "kind" : 6,
+                "line" : 471,
+                "name" : "unique_id(SEXP, SEXP)",
+                "parent_name" : "",
+                "usr" : "c:@F@unique_id"
+            }
+        ],
+        "file" : "/Users/richierocks/workspace/R2BayesX/src/bayesx.c",
+        "file_last_write" : 1489880696
+    }
+]

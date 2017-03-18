@@ -1,0 +1,8 @@
+inst/sourcers.R
+inst/JSS
+inst/bayesx_tests.R
+tests
+tests/bayesx.R
+tests/bayesx.Rout.save
+^.*\.Rproj$
+^\.Rproj\.user$

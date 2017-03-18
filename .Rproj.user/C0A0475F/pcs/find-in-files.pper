@@ -1,0 +1,10 @@
+{
+    "dialog-state" : {
+        "caseSensitive" : true,
+        "filePatterns" : [
+        ],
+        "path" : "~/workspace/R2BayesX",
+        "query" : ".Call(",
+        "regex" : false
+    }
+}
