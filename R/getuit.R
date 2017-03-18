@@ -11,7 +11,8 @@ function(x, xu, n, m)
     as.numeric(xu),	
     as.integer(n),
     as.integer(m),
-    as.integer(ch))
+    as.integer(ch), 
+    PACKAGE = "R2BayesX")
 
   return(rval)
 }
